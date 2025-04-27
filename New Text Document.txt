@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IRA Diagnostic - Dr Lal PathLabs Yavatmal</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f6f6f6;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header, footer {
+      background-color: #007bff;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    main {
+      padding: 2rem;
+    }
+    section {
+      margin-bottom: 2rem;
+      background: white;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #0056b3;
+    }
+    .whatsapp-button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #25d366;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    .whatsapp-button:hover {
+      background-color: #1ebe5d;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>IRA Diagnostic - Dr Lal PathLabs Yavatmal</h1>
+  <p>Trusted Lab Services, Now in Yavatmal!</p>
+</header>
+
+<main>
+
+  <section>
+    <h2>About Us</h2>
+    <p>At IRA Diagnostic (Authorized Partner of Dr Lal PathLabs), we offer world-class diagnostic services with accurate and timely reports. Trusted by thousands across India, now available in Yavatmal.</p>
+  </section>
+
+  <section>
+    <h2>Our Services</h2>
+    <ul>
+      <li>Full Body Checkup</li>
+      <li>Blood Tests</li>
+      <li>Diabetes Panel</li>
+      <li>Thyroid Profile</li>
+      <li>COVID-19 Testing</li>
+      <li>Vitamin D, B12 Tests</li>
+      <li>And many more...</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Why Choose Us?</h2>
+    <ul>
+      <li>NABL Accredited Lab</li>
+      <li>Expert Pathologists</li>
+      <li>Quick Turnaround Time</li>
+      <li>Home Sample Collection Available</li>
+      <li>Affordable Pricing</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Book a Test</h2>
+    <p>Booking is simple! Click below to WhatsApp us directly:</p>
+    <a class="whatsapp-button" href="https://wa.me/919422411888" target="_blank">Book Now on WhatsApp</a>
+  </section>
+
+  <section>
+    <h2>Location</h2>
+    <p>IRA Diagnostic – Dr Lal PathLabs Yavatmal</p>
+    <a href="https://maps.google.com" target="_blank">View on Google Maps</a>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p>Phone: 9422411888</p>
+    <p>Email: info@iralabsyavatmal.com</p>
+  </section>
+
+</main>
+
+<footer>
+  <p>&copy; 2025 IRA Diagnostic Yavatmal. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
